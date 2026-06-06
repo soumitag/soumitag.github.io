@@ -1,0 +1,73 @@
+# Site settings for Academic Pages
+locale                   : "en-US"
+title                    : "Soumita Ghosh, PhD"
+title_separator          : "-"
+name                     : &name "Soumita Ghosh, PhD"
+description              : &description "AI scientist developing interpretable machine learning and multimodal omics approaches for liver disease and transplantation."
+url                      : "https://soumitag.github.io"
+baseurl                  : ""
+repository               : "soumitag/soumitag.github.io"
+
+# Site author
+author:
+  avatar           : "profile.png"
+  name             : "Soumita Ghosh, PhD"
+  pronouns         : ""
+  bio              : "AI scientist | Computational hepatology | Multi-omics | Liver transplantation"
+  location         : "Toronto, Canada"
+  employer         : "University Health Network / University of Toronto"
+  uri              : "https://soumitag.github.io"
+  email            : "soumita.ghosh@utoronto.ca"
+  github           : "soumitag"
+  googlescholar    : "https://scholar.google.com.sg/citations?hl=en&user=O7HZhuwAAAAJ"
+  linkedin         : "soumitag"
+
+# SEO
+keywords:
+  - Soumita Ghosh
+  - artificial intelligence
+  - machine learning
+  - liver disease
+  - liver transplantation
+  - multi-omics
+  - cfDNA methylation
+  - computational hepatology
+
+# Build settings used by Academic Pages / Minimal Mistakes
+remote_theme             : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "default"
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
+
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  talks:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+include:
+  - _pages
+
+atom_feed:
+  hide: true
+
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/soumitag"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com.sg/citations?hl=en&user=O7HZhuwAAAAJ"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/soumitag/"
