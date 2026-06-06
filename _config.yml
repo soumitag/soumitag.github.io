@@ -10,7 +10,7 @@ repository               : "soumitag/soumitag.github.io"
 
 # Site author
 author:
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Soumita Ghosh, PhD"
   pronouns         : ""
   bio              : "AI scientist | Computational hepatology | Multi-omics | Liver transplantation | Liver diseases"
