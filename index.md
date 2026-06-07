@@ -5,7 +5,7 @@ permalink: /
 author_profile: true
 ---
 
-## AI scientist in computational hepatology and transplantation
+## AI scientist in precision medicine
 
 I develop interpretable machine learning and multimodal artificial intelligence methods to improve diagnosis, prognosis, and treatment decision-making in liver disease and transplantation. My work integrates clinical data, cell-free DNA methylation, transcriptomics, proteomics, metabolomics, and imaging-derived features to build clinically meaningful biomarkers and decision-support tools.
 
@@ -13,10 +13,10 @@ I am a postdoctoral researcher at the University Health Network and the Universi
 
 ### Research themes
 
-- **Non-invasive liver graft diagnostics:** cfDNA methylation and clinical-variable integration for distinguishing rejection, metabolic injury, and stable graft states.
+- **Non-invasive liver graft diagnostics:** cfDNA methylation and clinical-variable integration for distinguishing liver graft pathologies.
 - **Multimodal AI for liver disease:** machine learning across omics, clinical variables, and imaging to support personalized diagnosis and prognosis.
 - **Interpretable and deployable models:** explainable models designed for clinician-facing workflows and translational validation.
-- **Foundation models for biology:** self-supervised and contrastive learning approaches for high-dimensional omics and single-cell data.
+- **Foundation models for biology:** self-supervised and contrastive learning approaches for high-dimensional transcriptomics data.
 
 ### Current focus
 
