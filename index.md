@@ -15,8 +15,8 @@ I am a postdoctoral researcher at the University Health Network and the Universi
 
 - **Non-invasive liver graft diagnostics:** cfDNA methylation and clinical-variable integration for distinguishing liver graft pathologies.
 - **Multimodal AI for liver disease:** machine learning across omics, clinical variables, and imaging to support personalized diagnosis and prognosis.
-- **Interpretable and deployable models:** explainable models designed for clinician-facing workflows and translational validation.
-- **Foundation models for biology:** self-supervised and contrastive learning approaches for high-dimensional transcriptomics data.
+- **Interpretable and agentic AI for clinical deployment:** explainable models and agentic decision-support frameworks designed for clinician-facing workflows and translational validation.
+- **Foundation models for liver transcriptome:** self-supervised and contrastive learning approaches for high-dimensional transcriptomics data.
 
 ### Current focus
 
