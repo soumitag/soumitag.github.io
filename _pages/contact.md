@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-I welcome conversations about research collaborations, academic scientist roles, trainee supervision, and translational AI projects in liver disease and transplantation.
+I welcome opportunities to connect around research collaborations, academic scientist roles, trainee mentorship, and translational AI projects aimed at advancing precision medicine through multimodal data integration and clinically actionable decision support.
 
 **Email:** soumita.ghosh@utoronto.ca  
 **GitHub:** [soumitag](https://github.com/soumitag)  
