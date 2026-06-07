@@ -5,11 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-My research program sits at the intersection of artificial intelligence, computational biology, and clinical hepatology. I develop machine learning methods that use molecular and clinical data to improve diagnosis, risk stratification, and treatment decision-making in chronic liver disease and liver transplantation.
+My research program sits at the intersection of artificial intelligence, computational biology, and clinical data. I develop machine learning methods that use molecular and clinical data to improve diagnosis, risk stratification, and treatment decision-making in chronic liver disease and liver transplantation.
 
 ## Research vision
 
-The long-term goal of my work is to build clinically useful, interpretable, and externally validated AI systems that can help clinicians understand complex liver-disease biology and personalize patient care. I am especially interested in models that can integrate high-dimensional omics with routinely available clinical variables and translate the output into actionable clinical summaries.
+The long-term goal of my work is to build clinically useful, interpretable, and privacy focused AI systems that can help clinicians understand complex liver-disease biology and personalize patient care. I am especially interested in models that can integrate high-dimensional omics with routinely available clinical variables and translate the output into actionable clinical summaries.
 
 ## Core areas
 
