@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research program sits at the intersection of artificial intelligence, computational biology, and clinical data. I develop machine learning methods that use molecular and clinical data to improve diagnosis, risk stratification, and treatment decision-making in chronic liver disease and liver transplantation.
+My research sits at the intersection of artificial intelligence, computational biology, and clinical medicine. I develop interpretable machine learning and multimodal data-integration approaches that leverage molecular and clinical data to improve diagnosis, risk stratification, and treatment decision-making in chronic liver disease and liver transplantation.
 
 ## Research vision
 
