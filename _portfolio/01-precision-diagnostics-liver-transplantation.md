@@ -1,10 +1,10 @@
 ---
-title: "CleVER-LG: multimodal AI for liver graft injury"
+title: "Multimodal AI for liver graft injury"
 collection: portfolio
 permalink: /portfolio/clever-lg/
 excerpt: "Cell-free DNA methylation and clinical-variable integration for non-invasive liver graft injury classification."
 ---
 
-CleVER-LG is a multimodal machine learning framework for non-invasive assessment of liver graft injury. The project integrates cell-free DNA methylation signatures with routinely available clinical variables to support classification of graft phenotypes such as rejection, metabolic injury, and stable graft states.
+This project develops a multimodal machine learning framework for the non-invasive assessment of liver graft injury. By integrating cell-free DNA methylation signatures with routinely available clinical variables, the approach aims to classify clinically relevant graft phenotypes, including immune-mediated rejection, metabolic injury, and stable graft states.
 
-The broader goal is to move beyond generic graft injury detection toward etiology-specific interpretation that could support individualized immunosuppression and post-transplant monitoring.
+The broader goal is to move beyond diagnosis of graft injury toward etiology-specific interpretation. This could support more individualized immunosuppression strategies, improve post-transplant monitoring, and enable earlier identification of patients at risk for graft dysfunction.
