@@ -1,0 +1,50 @@
+---
+---
+
+@import "main";
+
+/* Soft academic blue accents */
+a {
+  color: #2F6F9F;
+}
+
+a:hover {
+  color: #1F4E73;
+}
+
+.page__content h2,
+.page__content h3 {
+  color: #2F6F9F;
+}
+
+.masthead {
+  border-bottom: 3px solid #D7EAF7;
+}
+
+.greedy-nav a:hover {
+  color: #2F6F9F;
+}
+
+.author__name {
+  color: #1F4E73;
+}
+
+/* Sidebar cleanup */
+.sidebar {
+  overflow-x: hidden;
+}
+
+.author__bio {
+  font-size: 0.85em;
+  line-height: 1.4;
+  word-wrap: break-word;
+}
+
+.author__urls {
+  font-size: 0.85em;
+  overflow-wrap: break-word;
+}
+
+.author__avatar img {
+  max-width: 160px;
+}
