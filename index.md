@@ -20,6 +20,6 @@ I am a postdoctoral researcher at the University Health Network and the Universi
 
 ### Current focus
 
-I am particularly interested in research-track scientist and academic roles where I can lead translational AI programs at the interface of computational biology, hepatology, transplantation, and precision medicine.
+I am particularly interested in research-track scientist and academic roles where I can lead translational AI programs for precision medicine.
 
 [Research](/research/) • [Publications](/publications/) • [Projects](/projects/) • [CV](/cv/) • [Contact](/contact/)
